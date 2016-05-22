@@ -1,0 +1,9 @@
+C:\Users\Eric\Desktop\CounterBot\CounterBot\bin\Debug\CounterBot.exe.config
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\bin\Debug\CounterBot.exe.config
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\bin\Debug\CounterBot.exe
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\bin\Debug\CounterBot.pdb
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\bin\Debug\WebDriver.dll
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\bin\Debug\WebDriver.xml
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\obj\Debug\CounterBot.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\obj\Debug\CounterBot.exe
+C:\Users\Eric\Desktop\GitHub\CounterBot\CounterBot\obj\Debug\CounterBot.pdb
